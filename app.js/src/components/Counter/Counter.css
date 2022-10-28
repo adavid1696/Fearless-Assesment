@@ -1,0 +1,25 @@
+.Counter {
+	display: flex;
+	flex-direction: column;
+	padding: 4px;
+	border: 2px solid grey;
+	padding: 10px;
+	border-radius: 50px 20px;
+	background-color: bisque;
+}
+
+.hit {
+	display: inline-block;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 2em;
+	color: #FFFFFF;
+	background-color: #4eb5f1;
+	text-align: center;
+
+}
+
+.hit:hover {
+	background-color: #4095c6;
+	cursor: pointer;
+}
